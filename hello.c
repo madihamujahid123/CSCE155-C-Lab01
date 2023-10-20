@@ -1,6 +1,6 @@
 /**
  * Author: Madiha Mujahid
- *         madihamujahid96"gmail.com
+ *         madihamujahid96@gmail.com
  * Date: 2023/10/20
  *
  * A simple hello world program in C
